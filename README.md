@@ -21,7 +21,7 @@ Dataset has (301, 9) rows and columns.
 ![](https://github.com/parthshah28/car_price_prediction_webapp/blob/main/images/1.png)
 
 ## Feature Engineering:
-to understand it in more detail go to [ipynb](https://github.com/parthshah28/car_price_prediction_webapp/blob/main/Untitled.ipynb)
+to understand it in more detail go to [car.ipynb](https://github.com/parthshah28/car_price_prediction_webapp/blob/main/Untitled.ipynb)
 
 First I have created dummy variables for categorical features which are 'Fuel_Type', 'Seller_Type', 'Transmission'.
 
