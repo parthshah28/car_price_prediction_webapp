@@ -12,7 +12,7 @@ Predicting car price using features provided by user.
 
 ## Dataset:
 
-Click [Here](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
+Dataset is taken from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
 
 Dataset has (301, 9) rows and columns.
 
