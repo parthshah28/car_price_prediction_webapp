@@ -6,10 +6,6 @@
 
 ![](https://github.com/parthshah28/car_price_prediction_webapp/blob/main/images/captured.gif)
 
-## Overview:
-
-Predicting car price using features provided by user.
-
 ## Dataset:
 
 Dataset is taken from [Kaggle](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
@@ -37,6 +33,7 @@ I have used RandomForestRegressor Algorithm and RandomizedSearchCV for selecting
 #### Best Score - -3.9462177171800144
 
 ## Result:
+
 Distribution plot of predictions-
 
 ![](https://github.com/parthshah28/car_price_prediction_webapp/blob/main/images/3.png)
