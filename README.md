@@ -19,15 +19,15 @@ Dataset has (301, 9) rows and columns.
 ## Feature Engineering:
 to understand it in more detail go to [car.ipynb](https://github.com/parthshah28/car_price_prediction_webapp/blob/main/Untitled.ipynb)
 
-First I have created dummy variables for categorical features which are 'Fuel_Type', 'Seller_Type', 'Transmission'.
+First I have created **dummy variables** for categorical features which are **'Fuel_Type', 'Seller_Type', 'Transmission'**.
 
-After that I have used ExtraTreeRegressor to understand feature importance.
+After that I have used **ExtraTreeRegressor** to understand feature importance.
 
 ![](https://github.com/parthshah28/car_price_prediction_webapp/blob/main/images/2.png)
 
 ## Algorithms Used:
 
-I have used RandomForestRegressor Algorithm and RandomizedSearchCV for selecting best parameters.
+I have used **RandomForestRegressor Algorithm and RandomizedSearchCV** for selecting best parameters.
 
 #### Best Parameters - {'n_estimators': 1000, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'sqrt', 'max_depth': 25}
 #### Best Score - -3.9462177171800144
